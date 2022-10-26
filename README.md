@@ -1,6 +1,6 @@
 # Welcome, I'm Robin   :wave:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2338A1B5&size=24&vCenter=true&height=24&lines=Passionate+Web+Developper;Media+Engineer+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2338A1B5&size=24&vCenter=true&height=24&lines=Passionate+Web+Developper;Media+Engineer)](https://git.io/typing-svg)
 
 Fascinated by the place of the human being within new technologies, I have at heart to propose creative solutions and rich experiences to users.
 
